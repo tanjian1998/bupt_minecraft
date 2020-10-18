@@ -17,7 +17,7 @@ Usage:download and decompress it in a clean folder, run the game, load the only 
 
 用法：下载后在空文件夹内解压，启动MC游戏，加载唯一的场景存档，enjoy！
 
-![详细说明](https://github.com/tanjian1998/bupt_minecraft/blob/master/BUPT_Minecraft%20(Xitucheng%20Campus)-V.20201018-User%20Guide.pdf)
+![详细说明](https://github.com/tanjian1998/bupt_minecraft/blob/master/BUPT_Minecraft%EF%BC%88%E8%A5%BF%E5%9C%9F%E5%9F%8E%E6%A0%A1%E5%8C%BA%EF%BC%89-20201018%E7%89%88-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.pdf)
 
 ![Title of Xitucheng campus](https://github.com/tanjian1998/bupt_minecraft/blob/master/screenshots/title-mc-bupt.png)
 
