@@ -9,9 +9,15 @@ File: Client_Minecraft_1.15.2.zip
 Description：Campus scene of Beijing University of Posts and Telecommunications（Xitucheng Campus） in MineCraft, with MineCraft Main program Version 1.15.2
 Usage:download and decompress it in a clean folder, run the game, load the only scene document，enjoy！
 
+![Detail UserGuide](https://github.com/tanjian1998/bupt_minecraft/blob/master/BUPT_Minecraft%20(Xitucheng%20Campus)-V.20201018-User%20Guide.pdf)
+
 主要文件：Client_Minecraft_1.15.2.zip
+
 描述：北邮西土城校区场景及MINECRAFT游戏主程序，MC版本1.15.2
+
 用法：下载后在空文件夹内解压，启动MC游戏，加载唯一的场景存档，enjoy！
+
+![详细说明](https://github.com/tanjian1998/bupt_minecraft/blob/master/BUPT_Minecraft%20(Xitucheng%20Campus)-V.20201018-User%20Guide.pdf)
 
 ![Title of Xitucheng campus](https://github.com/tanjian1998/bupt_minecraft/blob/master/screenshots/title-mc-bupt.png)
 
